@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("NStack")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("New Stack - Explorations on Unicode, IO, new idioms and error handling for .NET")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NStack")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCompany("Intellivoid Technologies")]
+[assembly: AssemblyProduct("Intellivoid.NStack")]
+[assembly: AssemblyCopyright("Copyright © Intellivoid Technologies 2017-2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
